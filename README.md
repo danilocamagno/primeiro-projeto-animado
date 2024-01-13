@@ -1,6 +1,6 @@
 <h1>site mario</h1>
 <br>
-<p>esse foi um projeto que eu aprendi no <a>DevClub</a></p>
+<p>esse foi um projeto que eu aprendi no <a href="https://comunidade.devclub.com.br/home">DevClub</a> </p>
 
  <h2>tecnologias usadas</h2>
  <br>
